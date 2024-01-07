@@ -1,6 +1,8 @@
 # WQD7005-AA1-Woo-Wai-Hong-22065374
 Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
-* test
+* customer_data.csv
+* sales_data.csv
+* integrated_ecom.csv
 ## Objectives of AA1
 write something
 
