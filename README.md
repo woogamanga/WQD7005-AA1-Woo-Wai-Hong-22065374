@@ -8,6 +8,7 @@ Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
 * Combine_Two_Files_AA1.zip = sample workflow for data integration in Talend DI
 * 7005 AA1 Woo Wai Hong 22065374.spk = exported model package for SAS Enterprise Miner
 * Resources.zip = resource folder containing screenshots of all the deliverables
+* DM_AA1.ipynb = iPython notebook to validate data pre-processing
 ## Objectives of AA1
 The objectives for AA1 are as follows:
 1.	To understand the distribution of key attributes in the synthetic dataset created which will inform relevant data preprocessing steps needed.
