@@ -17,10 +17,21 @@ The objectives for AA1 are as follows:
 Talend Data Integration is an open-source ETL (Extract, Transform, Load) tool that enables organizations to connect, transform, and integrate data from various sources to meet their business needs.
 
 The role of Talend DI in this assessment are as follows:
-1.	To perform data integration on the 2 synthetic datasets, sales_data.csv and customer_data.csv, using tools in such as ‘tFileInputDelimited’, ‘tMap’, ‘tFileOutputDelimited’. 
+1.	To perform data integration on the 2 synthetic datasets, sales_data.csv and customer_data.csv, using tools in Talend DI such as ‘tFileInputDelimited’, ‘tMap’, ‘tFileOutputDelimited’. 
 
 ## Role of Talend Data Preparation (DP)
-write something 
+Talend Data Preparation is a user-friendly, self-service data preparation tool that empowers business users to clean, enrich, and transform raw data into actionable insights, facilitating efficient data management and analysis.
+
+The role of Talend DP in this assessment are as follows: 
+1.	To perform data cleaning on the integrated synthetic dataset which has inconsistencies in columns such as ‘LastPurchaseDate’, ‘Gender’ and ‘Location’.
 
 ## Role of SAS Enterprise Miner (EM)
-write something
+SAS Enterprise Miner is an advanced analytics and data mining tool that empowers organizations to build, deploy, and refine predictive models, uncover patterns in data, and make informed, data-driven decisions.
+The role of SAS EM in this assessment are as follows: 
+1.	To perform data preprocessing by means of mode imputation of the column ‘Returns’ which has missing values.
+2.	To perform data preprocessing by means of dropping columns which are irrelevant to the analysis.
+3.	To perform exploratory data analysis in order to understand the underlying distribution of the key attributes in the integrated dataset.
+4.	To partition the integrated dataset into training, validation, and test sets in preparation for modeling using tree-based classifiers. 
+5.	To train 3 tree-based classifiers to perform classification of e-commerce customer churn. 
+6.	To evaluate the performance of the 3 tree-based classifiers using various performance metrics in order to determine the best performing classifier for the classification of customer churn in the e-commerce domain. 
+
