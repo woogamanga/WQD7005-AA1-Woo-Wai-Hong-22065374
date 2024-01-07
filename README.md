@@ -3,6 +3,7 @@ Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
 * customer_data.csv
 * sales_data.csv
 * integrated_ecom.csv
+* integrated_ecom2 Preparation.tde
 ## Objectives of AA1
 write something
 
