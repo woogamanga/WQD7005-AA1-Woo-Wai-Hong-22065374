@@ -1,3 +1,4 @@
+Data mining in e-commerce involves extracting valuable insights and patterns from large datasets to enhance decision-making processes within online retail environments. The benefits of data mining in e-commerce include improved customer segmentation, personalized recommendations, and optimized marketing strategies based on historical customer behaviour. Customer churn prediction is particularly crucial in e-commerce as it helps identify customers at risk of leaving, allowing businesses to implement targeted retention strategies and ultimately enhance customer loyalty and profitability.
 # WQD7005-AA1-Woo-Wai-Hong-22065374
 Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
 * customer_data.csv = Customer data 
@@ -13,7 +14,10 @@ The objectives for AA1 are as follows:
 3.	To determine the best performing tree-based classifier for the use case of customer churn classification in the e-commerce domain.
 4.	To improve my mastery over the use Talend Data Integration (DI), Talend Data Preparation (DP) and SAS Enterprise Miner (EM) tools in conducting an end-to-end data mining project for AA1 using the SEMMA methodology.
 ## Role of Talend Data Integration (DI)
-write something 
+Talend Data Integration is an open-source ETL (Extract, Transform, Load) tool that enables organizations to connect, transform, and integrate data from various sources to meet their business needs.
+
+The role of Talend DI in this assessment are as follows:
+1.	To perform data integration on the 2 synthetic datasets, sales_data.csv and customer_data.csv, using tools in such as ‘tFileInputDelimited’, ‘tMap’, ‘tFileOutputDelimited’. 
 
 ## Role of Talend Data Preparation (DP)
 write something 
