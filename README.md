@@ -1,6 +1,6 @@
-Data mining in e-commerce involves extracting valuable insights and patterns from large datasets to enhance decision-making processes within online retail environments. The benefits of data mining in e-commerce include improved customer segmentation, personalized recommendations, and optimized marketing strategies based on historical customer behaviour. Customer churn prediction is particularly crucial in e-commerce as it helps identify customers at risk of leaving, allowing businesses to implement targeted retention strategies and ultimately enhance customer loyalty and profitability.
 # WQD7005-AA1-Woo-Wai-Hong-22065374
-Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
+Data mining in e-commerce involves extracting valuable insights and patterns from large datasets to enhance decision-making processes within online retail environments. The benefits of data mining in e-commerce include improved customer segmentation, personalized recommendations, and optimized marketing strategies based on historical customer behaviour. Customer churn prediction is particularly crucial in e-commerce as it helps identify customers at risk of leaving, allowing businesses to implement targeted retention strategies and ultimately enhance customer loyalty and profitability.
+## Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
 * customer_data.csv = Customer data 
 * sales_data.csv = Sales data
 * integrated_ecom.csv = Integrated E-Commerce Data after integration using Talend DI
@@ -9,6 +9,7 @@ Repository for Resources used in WQD7005 AA1 Woo Wai Hong 22065374
 * 7005 AA1 Woo Wai Hong 22065374.spk = exported model package for SAS Enterprise Miner
 * Resources.zip = resource folder containing screenshots of all the deliverables
 * DM_AA1.ipynb = iPython notebook to validate data pre-processing
+* WooWaiHong_22065374.pdf = written report for WQD7005 AA1
 ## Objectives of AA1
 The objectives for AA1 are as follows:
 1.	To understand the distribution of key attributes in the synthetic dataset created which will inform relevant data preprocessing steps needed.
